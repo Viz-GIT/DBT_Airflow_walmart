@@ -1,0 +1,11 @@
+sources:
+  - name: walmart_source
+    database: catalog_walmart 
+    schema: 00_landing  
+    tables:
+      - name: orders
+      - name: customers
+      - name: products
+      - name: order_items
+      - name: employees
+      - name: stores

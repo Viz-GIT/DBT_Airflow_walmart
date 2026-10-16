@@ -1,0 +1,6 @@
+apache-airflow>=3.3.2
+airflow-operators
+dbt-databricks>=1.12.6
+dbt-core>=1.12.5
+databricks-sdk>=0.117.0
+apache-airflow-providers-standard
